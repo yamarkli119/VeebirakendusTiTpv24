@@ -1,0 +1,43 @@
+body{
+    font-family: Arial;
+    color: brown; /*teksti värv*/
+}
+h1{
+    border: solid 1px purple;
+    padding: 10%;
+    margin: 10px;
+    text-align: center
+    border-radius: 60px;
+    width: 60%;
+    background-color: lightcoral;
+}
+
+h2{
+    border: dotted 1px purple;
+    padding: 1%;
+    margin: 10px;
+    text-align: center
+    border-radius: 60px;
+    width: 60%;
+    background-color:turquoise;
+}
+
+ul{
+    list-style-type: circle;
+    padding: 5px;
+    background-color: paleviolet;
+}
+ul li{
+    background-color: darkcyan;
+    margin: 5px;
+}
+table, td{
+    width: 60%;
+    border: solid 1px red;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: darkorange ;
+
+}
+
+
