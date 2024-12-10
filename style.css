@@ -1,12 +1,12 @@
 body{
-    font-family: Arial;
+    font-family: Georgia;
     color: brown; /*teksti värv*/
 }
 h1{
     border: solid 1px purple;
     padding: 10%;
     margin: 10px;
-    text-align: center
+    text-align: center;
     border-radius: 60px;
     width: 60%;
     background-color: lightcoral;
@@ -16,7 +16,7 @@ h2{
     border: dotted 1px purple;
     padding: 1%;
     margin: 10px;
-    text-align: center
+    text-align: center;
     border-radius: 60px;
     width: 60%;
     background-color:turquoise;
@@ -25,7 +25,7 @@ h2{
 ul{
     list-style-type: circle;
     padding: 5px;
-    background-color: paleviolet;
+    background-color: rosybrown;
 }
 ul li{
     background-color: darkcyan;
@@ -39,5 +39,3 @@ table, td{
     background-color: darkorange ;
 
 }
-
-
