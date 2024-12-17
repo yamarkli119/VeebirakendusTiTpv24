@@ -1,4 +1,4 @@
-table#LHT, td{
+table#LHT{
     width: 60%;
     border: 1px solid black;
     text-align: center;
@@ -27,4 +27,60 @@ table#Keeruline2, table#Keeruline2 td{
     padding: 3px;
     background-color: darkred;
     color: white;
+}
+#LHT tr:nth-child(1) td:nth-child(1){
+    background-color: indianred;
+}
+#LHT tr:nth-child(1) td:nth-child(2){
+    background-color: indianred;
+}
+#LHT tr:nth-child(1) td:nth-child(3){
+    background-color: indianred;
+}
+#LHT tr:nth-child(1) td:nth-child(4){
+    background-color: indianred;
+}
+#LHT tr:nth-child(1) td:nth-child(5){
+    background-color: indianred;
+}
+#LHT tr:nth-child(1) td:nth-child(6){
+    background-color: indianred;
+}
+table#iseseisev, table#iseseisev td{
+    width: 30%;
+    border: 1px solid black;
+    text-align: center;
+    padding: 3px;
+    background-color: violet;
+    color: white;
+}
+#iseseisev tr:nth-child(1) td:nth-child(1){
+    background-color: olive;
+}
+#iseseisev tr:nth-child(1) td:nth-child(2){
+    background-color: green;
+}
+#iseseisev tr:nth-child(1) td:nth-child(3){
+    background-color: darkblue;
+}
+#iseseisev tr:nth-child(2) td:nth-child(1){
+    background-color: black;
+}
+#iseseisev tr:nth-child(2) td:nth-child(2){
+    background-color: darkslategrey;
+}
+#iseseisev tr:nth-child(3) td:nth-child(1){
+    background-color: darkslateblue;
+}
+#iseseisev tr:nth-child(3) td:nth-child(2){
+    background-color: yellowgreen;
+}
+#iseseisev tr:nth-child(3) td:nth-child(3){
+    background-color: #c300ff;
+}
+#iseseisev tr:nth-child(4) td:nth-child(1){
+    background-color: brown;
+}
+#iseseisev tr:nth-child(4) td:nth-child(2){
+    background-color: lawngreen;
 }
