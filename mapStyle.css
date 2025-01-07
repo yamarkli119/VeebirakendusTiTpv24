@@ -1,0 +1,36 @@
+div{
+    width:30%;
+    height:30%;
+    border: solid 10pt blueviolet;
+    position: absolute;
+    left: 12cm;
+    top: 2cm;
+    padding: 2%;
+    border-radius: 60px;
+    text-align: center;
+}
+div h2{
+    margin-top: 22% ;
+    font-size: 20px;
+    color: limegreen;
+}
+footer{
+    text-align: center;
+    background-color: blueviolet;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: whitesmoke;
+}
+header h1{
+    text-align: center;
+    width: 84%;
+    color: limegreen;
+}
+img{
+    border: solid 1pt skyblue;
+    border-radius:100%;
+    filter: drop-shadow(6px 8px 10px blueviolet);
+}
+
